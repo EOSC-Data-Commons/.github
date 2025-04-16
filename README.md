@@ -1,2 +1,2 @@
-# .github
-EOSC Data Commons README
+# EOSC Data Commons
+
